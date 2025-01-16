@@ -8,6 +8,7 @@ public class MyArrayList {
         arr.add(30);
         arr.add(1, 50);
         int size = arr.size();
+       
         arr.remove(size - 1);
         System.out.println(arr);
     }
