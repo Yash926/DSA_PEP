@@ -1,0 +1,15 @@
+Hashing
+
+2sum
+Majority element
+Isomorphic strings
+Valid anagrams
+Sort characters by frequency
+Missing number in an array
+
+Sets
+Union of arrays
+Intersection of arrays
+Contains duplicates
+Happy numbers
+Morse code leetcode 804
