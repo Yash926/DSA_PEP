@@ -40,6 +40,7 @@ public class TwoSum {
     public static void main(String[] args) {
         int arr[]={2,7,11,15};
         int l=0;
+        int ans[]=new int[2];
         int r=arr.length-1;
         int target=9;
         while(r>l)
@@ -47,7 +48,9 @@ public class TwoSum {
             int sum=arr[l]+arr[r];
             if(sum==target){
 
-                return {l+1, r+1};
+                ans[0]=l+1;
+                ans[1]=r+1;
+                break;
             }
             else if(sum<target)
             {
@@ -57,7 +60,7 @@ public class TwoSum {
                 r--;
             }
         }
-        return {};
+        System.out.println(ans[0]+" "+ans[1]);
 
     }
 }
