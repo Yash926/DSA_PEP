@@ -13,3 +13,7 @@ Intersection of arrays
 Contains duplicates
 Happy numbers
 Morse code leetcode 804
+
+https://www.geeksforgeeks.org/problems/introduction-to-linked-list/1
+
+https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/0
