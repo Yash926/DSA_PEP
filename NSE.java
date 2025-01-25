@@ -2,7 +2,8 @@ import java.util.*;
 public class NSE{
     public static void main(String[] args)
     {
-        int arr[]={4,5,2,10,8,7,6};
+        // int arr[]={4,5,2,10,8,7,6};
+        int arr[]={1,3,4,2};
         //for each element in the array i will find the next greater element to its right}
         // compare arr[i] with stack top;
         // while arr[i]>top:pop()

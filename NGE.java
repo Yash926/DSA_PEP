@@ -31,3 +31,30 @@ public class NGE{
         System.out.println(ans);
 }
 }
+
+
+// import java.util.*;
+// public class NGE{
+//     public static void main(String[] args){
+//         int arr[]={4,5,2,10,8,7,6};
+//         ArrayList<Integer> ans=new ArrayList<>();
+//         for(int i=0;i<arr.length;i++)
+//         {
+//             int nge=-1;
+//             for(int j=i+1;j<arr.length;j++)
+//             {
+//                 if(arr[j]>arr[i])
+//                 {
+//                     nge=arr[j];
+//                     ans.add(nge);
+//                     break;
+//                 }
+//             }
+//             if(nge==-1)
+//             {
+//                 ans.add(-1);
+//             }
+//         }
+//         System.out.println(ans);
+//         }
+// }
