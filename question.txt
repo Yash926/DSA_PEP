@@ -74,3 +74,9 @@ Leetcode -MinStack
 
 https://chat.whatsapp.com/Cf42Q3tKOkWBA7f779DErY
 
+
+https://leetcode.com/problems/online-stock-span/description/
+
+https://leetcode.com/problems/largest-rectangle-in-histogram/description/
+
+https://leetcode.com/problems/running-sum-of-1d-array/description/
