@@ -88,3 +88,7 @@ https://leetcode.com/problems/trapping-rain-water/description/
 https://leetcode.com/problems/subarray-sum-equals-k/
 
 https://leetcode.com/problems/maximum-average-subarray-i/
+
+https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1
+
+https://leetcode.com/problems/find-all-anagrams-in-a-string/
