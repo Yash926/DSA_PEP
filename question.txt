@@ -92,3 +92,9 @@ https://leetcode.com/problems/maximum-average-subarray-i/
 https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1
 
 https://leetcode.com/problems/find-all-anagrams-in-a-string/
+
+https://leetcode.com/problems/evaluate-reverse-polish-notation/
+
+Leet Code-150/20/1021  --Questions based on stack  
+
+https://leetcode.com/problems/next-greater-element-ii/
