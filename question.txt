@@ -98,3 +98,11 @@ https://leetcode.com/problems/evaluate-reverse-polish-notation/
 Leet Code-150/20/1021  --Questions based on stack  
 
 https://leetcode.com/problems/next-greater-element-ii/
+
+Leet Code:739;
+Leet Code:84
+Leet Code:42
+Leet Code:1004
+Leet Code:238
+Leet Code:239
+
