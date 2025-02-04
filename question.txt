@@ -105,4 +105,10 @@ Leet Code:42
 Leet Code:1004
 Leet Code:238
 Leet Code:239
+Leet Code:344
+Leet Code:509
+Leet Code:78
+Leet Code:39
+
+
 
