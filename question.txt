@@ -112,6 +112,15 @@ Leet Code:39
 Leet Code:90
 Leet Code:46
 Leet Code:784
+Leet Code:144
+Leet Code:145
+Leet Code:94
+Leet Code:104
+Leet Code:110
+Leet Code:100
+Leet Code:543
+Leet Code:102
+
 
 
 
