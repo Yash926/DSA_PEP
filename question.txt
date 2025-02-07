@@ -120,7 +120,10 @@ Leet Code:110
 Leet Code:100
 Leet Code:543
 Leet Code:102
-
+Leet Code:572
+Leet Code:226
+Leet Code:199
+Leet Code:235
 
 
 
