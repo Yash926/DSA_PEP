@@ -124,6 +124,20 @@ Leet Code:572
 Leet Code:226
 Leet Code:199
 Leet Code:235
+Leet Code:236
+Leet Code:1440
+Leet Code:701
+Leet Code:98
+Leet Code:700
+Leet Code:530
+
+https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/
+
+https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/
+
+https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1
+
+
 
 
 
