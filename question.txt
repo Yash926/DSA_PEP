@@ -137,6 +137,12 @@ https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/
 
 https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1
 
+https://leetcode.com/problems/maximum-width-of-binary-tree/
+
+https://leetcode.com/problems/delete-node-in-a-bst/description/
+
+https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/
+
 
 
 
