@@ -151,6 +151,40 @@ Leet Code:973
 
 https://www.geeksforgeeks.org/priority-queue-in-cpp-stl/
 
+https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1
+
+https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1
+
+https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1
+
+https://leetcode.com/problems/jump-game/description/
+
+
+https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1
+
+// greedy based problems
+
+1) Fractional Knapsack
+2) n-meeting one room
+3) jump game
+4) number of platfroms
+5) Job sequecning deadline
+
+https://leetcode.com/problems/reverse-words-in-a-string/description/
+
+https://leetcode.com/problems/roman-to-integer/description/
+
+https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
+
+https://leetcode.com/problems/climbing-stairs/
+
+https://leetcode.com/problems/min-cost-climbing-stairs/description/
+
+https://leetcode.com/problems/house-robber-ii/
+
+https://leetcode.com/problems/frog-jump-ii/
+
+https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1
 
 
 
