@@ -186,6 +186,12 @@ https://leetcode.com/problems/frog-jump-ii/
 
 https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1
 
+https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1
+
+https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1
+
+
+https://leetcode.com/problems/partition-equal-subset-sum/
 
 
 
